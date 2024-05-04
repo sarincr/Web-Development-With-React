@@ -1,0 +1,10 @@
+
+.codeone {
+  color: #007bff;
+  text-decoration: none;
+}
+
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
